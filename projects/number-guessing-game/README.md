@@ -28,4 +28,5 @@ Program exits.
 
 ## Run
 `cd python-mini-projects/projects/number-guessing-game`
+
 `python main.py`
